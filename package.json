@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^6.0.0",
+    "dotenv": "^8.1.0",
     "ganache-cli": "latest",
     "mocha": "latest",
     "npm": "^6.1.0",
